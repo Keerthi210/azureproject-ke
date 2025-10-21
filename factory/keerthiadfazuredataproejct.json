@@ -1,0 +1,9 @@
+{
+	"name": "keerthiadfazuredataproejct",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "769fd11b-5c9c-4d63-b28d-8695b1e16cbc",
+		"tenantId": "90b1d608-b483-4937-9f17-d03c0d25d3d7"
+	}
+}
